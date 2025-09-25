@@ -9,10 +9,10 @@ A collection of [Helpful Information App](https://github.com/rodekruis/helpful-i
 
 ## Example Instances
 
-- Example: <https://helpful-info.github.io/example>
+- Example: <https://helpful-info.github.io/example>  
   An instance with all features available and used, with non-realistic example content.
 
-- Example - Multilingual: <https://helpful-info.github.io/example-multilingual>
+- Example - Multilingual: <https://helpful-info.github.io/example-multilingual>  
   An instance with the self-translated "multi-language"-mode enabled. So it has "a sheet per language" in wich the content and hierarchy should be aligned.
   It also uses local data, so not using the Google Sheets API.
 
